@@ -14,11 +14,11 @@ on:
       DEVICE_TREE_URL:
         description: "Device tree url"
         required: true
-        default: "https://github.com/morannlx/device_tree_realme_rmx3800-divo--TWRP.git"
+        default: "https://github.com/morannlx/test-gt6-twrp.git"
       DEVICE_TREE_BRANCH:
         description: "Device tree branch"
         required: true
-        default: "twrp-16"
+        default: "master"
       DEVICE_PATH:
         description: "Device path device/"
         required: true
